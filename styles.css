@@ -44,7 +44,7 @@ input[type="text"] {
     left: 0;
     height: 100%;
     padding-top: 20px;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 0 5px rgba(29, 29, 29, 0.1);
 }
 
 .sidebar ul {
