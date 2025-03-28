@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -19,7 +19,7 @@ header {
 .logo {
     font-size: 24px;
     font-weight: bold;
-    color: red;
+    color: rgb(230, 0, 0);
 }
 
 input[type="text"] {
